@@ -14,4 +14,4 @@
  - Contact Form
  - Footer
  - Responsive Media Queries
- - animate.css
+ 
